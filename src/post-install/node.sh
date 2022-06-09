@@ -10,4 +10,4 @@ asdf install nodejs $NODE_VERSION
 
 asdf global nodejs $NODE_VERSION
 
-npm install -g yarn
+sudo npm i -g yarn
