@@ -6,3 +6,4 @@ git config --global user.email "mvs.moreira93@gmail.com"
 
 # Other configs
 git config --global init.defaultBranch main
+git config --global core.editor "code --wait"
