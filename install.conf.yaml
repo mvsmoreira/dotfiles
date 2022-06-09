@@ -38,7 +38,7 @@
     - sh src/post-install/vscode.sh
 
     # Flatpack softwares
-    - sh src/post-install/flatpack-softwares.sh
+    - sh src/post-install/flatpak-softwares.sh
 
     # Firefox Developer Edition
     - sh src/post-install/firefox-dev-browser.sh
