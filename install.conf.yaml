@@ -22,6 +22,9 @@
     # Install dev dependencies
     - sh src/post-install/dev-essencials.sh
 
+    # Install docker and docker-compose
+    - sh src/post-install/docker.sh
+
     # Setting git
     - sh src/post-install/git.sh
 
